@@ -1,1 +1,1 @@
-# Microsoft-AI-Residency
+# google-ai-residency
