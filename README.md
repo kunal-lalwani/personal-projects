@@ -1,1 +1,1 @@
-# microsoft-ai-residency
+# personal-projects
